@@ -1,0 +1,30 @@
+[Variables]
+ercf_calib_0 = 1.0
+ercf_calib_1 = 1.007851
+ercf_calib_10 = 1.0
+ercf_calib_11 = 1.0
+ercf_calib_2 = 1.0
+ercf_calib_3 = 1.0
+ercf_calib_4 = 1.0
+ercf_calib_5 = 1.0
+ercf_calib_6 = 1.0
+ercf_calib_7 = 1.0
+ercf_calib_8 = 1.0
+ercf_calib_9 = 1.0
+ercf_calib_clog_length = 10.6
+ercf_calib_ref = 941.0
+ercf_calib_version = 3
+ercf_state_endless_spool_groups = [0, 1, 2, 3, 4, 5]
+ercf_state_gate_selected = 0
+ercf_state_gate_status = [1, 1, -1, -1, -1, -1]
+ercf_state_loaded_status = 0
+ercf_state_tool_selected = 0
+ercf_state_tool_to_gate_map = [0, 1, 2, 3, 4, 5]
+ercf_statistics_gate_0 = {'servo_retries': 0, 'load_failures': 2, 'load_delta': 3681.951, 'pauses': 1, 'unload_delta': 868.865, 'unload_failures': 1, 'unloads': 0, 'loads': 0, 'unload_distance': 1740.061, 'load_distance': 9027.314}
+ercf_statistics_gate_1 = {'servo_retries': 1, 'load_failures': 3, 'load_delta': 3795.069, 'pauses': 2, 'unload_delta': 0.0, 'unload_failures': 0, 'unloads': 0, 'loads': 0, 'unload_distance': 0.0, 'load_distance': 6348.501}
+ercf_statistics_gate_2 = {'servo_retries': 0, 'load_failures': 0, 'load_delta': 0.0, 'pauses': 0, 'unload_delta': 0.0, 'unload_failures': 0, 'unloads': 0, 'loads': 0, 'unload_distance': 0.0, 'load_distance': 0.0}
+ercf_statistics_gate_3 = {'servo_retries': 0, 'load_failures': 0, 'load_delta': 0.0, 'pauses': 0, 'unload_delta': 0.0, 'unload_failures': 0, 'unloads': 0, 'loads': 0, 'unload_distance': 0.0, 'load_distance': 0.0}
+ercf_statistics_gate_4 = {'servo_retries': 0, 'load_failures': 0, 'load_delta': 0.0, 'pauses': 0, 'unload_delta': 0.0, 'unload_failures': 0, 'unloads': 0, 'loads': 0, 'unload_distance': 0.0, 'load_distance': 0.0}
+ercf_statistics_gate_5 = {'servo_retries': 0, 'load_failures': 0, 'load_delta': 0.0, 'pauses': 0, 'unload_delta': 0.0, 'unload_failures': 0, 'unloads': 0, 'loads': 0, 'unload_distance': 0.0, 'load_distance': 0.0}
+ercf_statistics_swaps = {'total_swaps': 9, 'total_pauses': 3, 'time_spent_unloading': 254.1, 'time_spent_loading': 362.1, 'time_spent_paused': 89.44483423233032}
+
